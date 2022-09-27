@@ -1,3 +1,6 @@
 # make outputs
 *.o
 *.so
+
+# dot files
+*.dot
